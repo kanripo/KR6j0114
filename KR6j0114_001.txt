@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:07.732662
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:18
 #+TITLE: 釋迦佛讚
 #+PROPERTY: CBETA_ID T19n0942
 #+PROPERTY: ID KR6j0114
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 942
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0114_T_000-0097c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0114_T_001-0097c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.942¶
-
- 釋迦佛讚¶
+No. 942¶
+釋迦佛讚¶
 ¶
 內廷清字經館行走唐古¶
 忒學教習闡福寺副達喇¶
@@ -26,9 +25,9 @@ No.942¶
 「　三時及釋冤
 　成道與龍乾¶
 　悉戴上寶尊
-　妙莊足蓮下
+　妙莊足蓮下」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　金光朗耀威德身
@@ -59,9 +58,9 @@ No.942¶
 　菩提樹下英勇坐
 　以慈慧兵鎮魔君¶
 　威力降伏皆已盡
-　猶如烈風掃黑雲
+　猶如烈風掃黑雲」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　不著甲冑器
@@ -75,9 +74,9 @@ No.942¶
 　為利眾生故
 　絲毫無倦時¶
 　眾生在尊前
-　誦德亦無倦
+　誦德亦無倦」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　心深莫測如淵海
@@ -88,9 +87,9 @@ No.942¶
 　一時共稟所疑義¶
 　隨彼一一各等前
 　同時示現身及語¶
-　即斷諸惑已盡矣
+　即斷諸惑已盡矣」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　聖身語意之密理
@@ -124,9 +123,9 @@ No.942¶
 　我願從今修菩提
 　乃至成道伏魔君¶
 　生生世尊常隨護
-　承受甘露語無厭
+　承受甘露語無厭」
 #+END_VERSE
-」
+
 <pb:KR6j0114_T_001-0098b>¶
 
 右為釋迦牟尼讚文謂速得攝受因持三藏弟¶
@@ -145,9 +144,9 @@ No.942¶
 　一切諸佛興於世
 　聖教顯明如日光¶
 　持教相和如兄弟
-　願施正教恒吉祥
+　願施正教恒吉祥」
 #+END_VERSE
-」¶
+¶
 
 右十二句誦者之願文隨前讚誦之可也。¶
 釋迦佛讚竟
